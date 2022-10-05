@@ -1,6 +1,7 @@
 **URL: http://chau.monster/index.php**
 
 **Image: **
+
 ![image](https://user-images.githubusercontent.com/110970552/193982058-addd14ee-f0eb-4ccb-b6bb-ef6a63c8cd25.png)
 
 **Tiền đề:** tạo sẵn Elastic IP
