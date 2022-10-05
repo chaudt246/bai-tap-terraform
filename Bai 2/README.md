@@ -7,5 +7,3 @@ go get github.com/kataras/iris/v12@master
 go mod tidy
 go build
 ./uploads3
-
-Lý do phải ssh do những dòng code đó cho vào user_data nhưng hệ thống ko chạy
