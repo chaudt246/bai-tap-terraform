@@ -1,5 +1,3 @@
-http://18.139.160.22/
-
 Cách thức thực hiện:
 Sau khi chạy terraform thì ssh vào EC2 thực hiện các câu lệnh sau:
 
